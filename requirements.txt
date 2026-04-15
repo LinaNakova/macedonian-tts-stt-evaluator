@@ -1,0 +1,8 @@
+openai-whisper
+gradio
+edge-tts
+jiwer
+soundfile
+numpy
+pandas
+pydub
